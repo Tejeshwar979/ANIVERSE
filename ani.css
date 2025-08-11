@@ -1,0 +1,389 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: #151518;
+}
+
+.navbar-background {
+    background-color: #0b0d12;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.carousel-image {
+    height: 500px;
+}
+
+.nav-logo-heading {
+    font-family: roboto;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    padding-top: 17px;
+}
+
+.nav-icon {
+    padding-top: 30px;
+
+}
+
+.card {
+    width: 200px;
+    background-color: #0b0d12;
+}
+
+.nav-button {
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: Roboto;
+    font-size: 10px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.nav-logo-heading2 {
+    font-family: roboto;
+    font-weight: bold;
+    color: white;
+    font-size: 38px;
+    padding-top: 35px;
+}
+
+.nav-logo2 {
+    height: 90px;
+    width: 90px;
+}
+
+.nav-md-button {
+    height: 40px;
+    width: 110px;
+    border-radius: 10px;
+    background-color: transparent;
+    font-family: Roboto;
+    font-size: 20px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    margin-top: 2px;
+    margin-right: 10px;
+}
+
+.bg-card {
+    width: 40px;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
+
+.top-airing-section {
+    background-color: #1a1a1a;
+}
+
+h3 {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 20px;
+    color: #e7c65b;
+    margin: 6px;
+}
+
+.carousel-top {
+    margin-top: 90px;
+    background-color: #151518;
+}
+
+.iconcolor {
+    color: #1a1a1a;
+}
+
+.top-section-image {
+    width: 100%;
+    height: 320px;
+}
+
+.most-popualr-images {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+h2 {
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.image1 {
+    height: 18px;
+    width: 18px;
+}
+
+p {
+    color: black;
+    font-family: roboto;
+    font-size: 12px;
+}
+
+.bg1 {
+    background-color: #ffd1bf;
+    height: 22px;
+    width: 50px;
+    padding: 5px;
+    padding-bottom: 23px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.bg-card {
+    background-color: #ffd1bf;
+    height: 22px;
+    width: 50px;
+    padding: 5px;
+    padding-bottom: 23px;
+}
+
+.bg2 {
+    background-color: #98fb98;
+    height: 22px;
+    width: 53px;
+    padding: 5px;
+    padding-bottom: 23px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+h5 {
+    color: #e0e0e0;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+hr {
+    border-width: 1px;
+    border-color: #7A7A7A;
+
+}
+
+.bg-one-piece {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1745222787/Fond_d_%C3%A9cran_one_piece_fksodp.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.card-style {
+    background-color: transparent;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.card-design-1 {
+    background-color: #90EE90;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-right: 2px;
+    height: 25px;
+
+}
+
+.card-design-2 {
+    background-color: #FFB6C1;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-right: 2px;
+    height: 25px;
+}
+
+.bg-para-design {
+    color: #E5E4E2;
+    font-size: 20px;
+}
+
+.heading-bg-design {
+    font-size: 20px;
+}
+
+.bg-blue-lock {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1746984591/Rin_Isagi_ufkq9x.jpg");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-demon-slayer {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1744999952/Kimetsu_no_Yaiba__Yuukaku-hen_pfoom3.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-dragon-ball {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1746985185/6cbea21f-2baa-4b3b-b7b1-d236b0828c31_vtcb6w.jpg");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-jjk {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747030930/09b3db85-5ce0-49df-a387-401ee9efb504_hth3bh.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-death-note {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1748539066/Crazyachat_spicedit_Anime_anipicedit_Death_Note_fc4dqo.jpg");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-attack-on-titan {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747062600/f68e9936-c00e-4309-9894-1a2a332fedbd_eu9mrr.jpg");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-hunterxhunter {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747062849/5779407a-7540-4438-a082-a0cc18e784c1_ktl4rz.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-bleach {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747063034/MugiwaraSan_Shop___Redbubble_ayrbuq.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-naruto-shippuden {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747063263/naruto_poster_kxorg9.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-tokyo-revengers {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747063483/Tokyo_Revengers_qqnanr.jpg ");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.bg-black-clover {
+    background-image: url("https://res.cloudinary.com/dgmfaki8z/image/upload/v1747063765/Black_clover_t24_by_Yuki_Tabata_Paperback___Indigo_Chapters_yni3fz.jpg");
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.box-design {
+    background-color: #393E46;
+    display: inline-block;
+    color: #ffffff;
+    padding: 5.5px;
+    margin: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#border-card {
+    border-radius: 5px;
+}
+
+.top-upcoming-image-section {
+    width: 100%;
+    border-radius: 10px;
+    height: 280px;
+}
+
+.top-upcoming-para-section {
+    color: #cccccc;
+    font-size: 12px;
+}
+
+.top-upcoming-head-section {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.icon-color {
+    color: #ffffff;
+}
+
+.icon-bg-1-discord {
+    border-radius: 40px;
+    background-color: #5865F2;
+    padding: 8px;
+}
+
+.icon-bg-2-telegram {
+    border-radius: 40px;
+    background-color: #0088CC;
+    padding: 8px;
+}
+
+.icon-bg-3-reddit {
+    border-radius: 40px;
+    background-color: #FF4500;
+    padding: 8px;
+}
+
+.icon-bg-4-twitter {
+    border-radius: 40px;
+    background-color: #1DA1F2;
+    padding: 8px;
+}
+
+.channel-background {
+    background-color: #ffffff;
+    border-radius: 15px;
+    display: inline-block;
+    height: 60px;
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+li {
+    margin: 12px;
+}
+
+.footer-paragraph {
+    color: #AAB8C2;
+    font-family: roboto;
+    font-size: 10px;
+}
+
+.cc-icon {
+    color: #AAB8C2;
+}
